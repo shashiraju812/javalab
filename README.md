@@ -32,7 +32,7 @@ Simple problem-solving programs
 How to Run the Programs
 Install Java (JDK)
 Clone the repository:
-git clone https://github.com/shashiraju8122/javalab.git
+git clone https://github.com/shashiraju8122/javalab/
 Open the folder:
 cd javalab
 Compile the program:

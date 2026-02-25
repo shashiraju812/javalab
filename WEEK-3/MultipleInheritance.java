@@ -1,7 +1,7 @@
-class student
+final class student
 {
 	int rollNumber;
-	 void getNumber(int n){
+	final void getNumber(int n){
 	rollNumber=n;
 	}
 	 void printNumber()
